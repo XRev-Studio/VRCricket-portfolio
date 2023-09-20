@@ -1,52 +1,77 @@
-# Ball Sort
+# VR Cricket Championship
 
-**BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+![VR Cricket Championship Banner](images/vrcricket.png)
 
-![Ball Sort Game Banner](images/image1.png)
+**Step into the exhilarating world of cricket like never before with VR Cricket Championship! Experience cricket in a groundbreaking virtual reality setup crafted by XREV Studio.**
 
-## About Ball Sort
+## 📌 Table of Contents
 
-Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logical thinking and color sorting skills to the test. Whether you're looking for a quick mental workout or a relaxing way to unwind, this unique color sorting game is the perfect choice. Play anytime, anywhere, and enjoy a day filled with colorful ball sorting fun.
+1. [About the Project](#about-the-project)
+2. [Game Details](#game-details)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Acknowledgements](#acknowledgements)
 
-## Details
+## 🎮 About the Project
+
+The VR Cricket Championship is not just a game but a revolution in the world of virtual reality gaming. Get ready to immerse yourself in the most realistic virtual cricket championship ever created. From batting, bowling to fielding, every aspect of the game mirrors real-life physics and dynamics, offering an unmatched cricketing experience.
+
+## 🏏 Game Details
 
 ### Description
 
-- Dive into the world of color sorting games with Ball Sort Puzzle Color Tubes.
-- Test your color sorting skills in this engaging and mind-bending ball sorting puzzle.
-- Experience the soothing effect of this game, perfect for relieving daily stress.
-- Easy to play, challenging to master - can you become the ultimate champion?
-- Strategically tap to move balls between bottles until they're perfectly sorted by color.
-- Unlock the excitement of becoming a Ball Sort Puzzle Color Tubes expert.
-
-### Gameplay
-
-- Pick up the top ball by tapping any bottle, then transfer it to another bottle.
-- Balls can only be stacked in a bottle with the same color on top and enough space.
-- Victory awaits when all balls of the same color are sorted into a single bottle.
-- Each bottle can hold a maximum of 4 balls.
+- **Physics-Based Gameplay**: Experience a cricket simulation with realistic ball physics and dynamic gameplay.
+- **Multi-Dimensional Gameplay**: Develop your cricketing skills in all dimensions – batting, bowling, and fielding.
+- **Interactive Environments**: Immerse yourself in interactive stadiums with lifelike crowd animations and ambience.
 
 ### Key Features
 
-- Intuitive one-finger control: Simply tap to sort the balls.
-- Restart your current level anytime, giving you the chance to perfect your strategy.
-- Add an extra bottle by clicking "Add" to enhance your sorting capabilities.
-- Enjoy a penalty-free and time-limit-free gaming experience.
+- **360° VR Cricket Experience**: A complete immersion into the cricket field with 360° VR technology.
+- **Realistic Graphics**: Enjoy high-definition graphics that bring every detail of the cricket world alive.
+- **Epic Narrative**: Embark on a journey from being a novice to becoming a cricket legend.
 
-## Gallery
+### Gallery
 
-![Ball Sort Game Screenshot 1](images/image2.png)
-![Ball Sort Game Screenshot 2](images/image3.png)
+![VR Cricket Gameplay 1](images/vrcricket2.png)
+![VR Cricket Gameplay 2](images/vrcricket3.png)
 
-<!--## Video Showcase
+## 💻 Installation
 
-<a href="https://www.youtube.com/watch?v=drg9xEKpbow" target="_blank"><img src="https://img.youtube.com/vi/drg9xEKpbow/0.jpg" 
-alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>  -->
+**Instructions to get the project up and running:**
 
-## Links
+1. **Requirements**
+   - VR headset (e.g., Oculus Rift, HTC Vive)
+   - Compatible PC or gaming console
+2. **Setup**
+   - Download the VR Cricket Championship setup file from the releases section.
+   - Install the game following the on-screen instructions.
 
-- [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
+## 🕹️ Usage
 
----
+**Here's how to get started with the VR Cricket Championship:**
 
-© XRev Studio. All rights reserved.
+1. Launch the game from your desktop or VR home.
+2. Follow the in-game tutorial to get acquainted with the controls and gameplay.
+3. Start your cricketing journey in the training ground and make your way up to the championship league.
+
+## 🤝 Contribution
+
+We welcome contributions from the community. If you'd like to contribute, please fork the repository and create a new pull request.
+
+## 📄 License
+
+Distributed under the XYZ License. See `LICENSE` for more information.
+
+## 📞 Contact
+
+XREV Studio
+- Email: contact@xrevstudio.com
+- Twitter: [@XREVStudio](https://twitter.com/XREVStudio)
+
+## 👏 Acknowledgements
+
+- [Oculus SDK](https://developer.oculus.com/)
+- [Unity Engine](https://unity.com/)
