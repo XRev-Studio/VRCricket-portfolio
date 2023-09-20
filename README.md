@@ -1,6 +1,6 @@
 # VR Cricket Championship
 
-![VR Cricket Championship Banner](images/vrcricket.png)
+![VR Cricket Championship Banner](images/BallSortIcon.png)
 
 **Step into the exhilarating world of cricket like never before with VR Cricket Championship! Experience cricket in a groundbreaking virtual reality setup crafted by XREV Studio.**
 
